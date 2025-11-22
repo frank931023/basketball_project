@@ -3,4 +3,5 @@
 /input_videos
 /output_videos
 /stubs
+.env
 **/__pycache__/
